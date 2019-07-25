@@ -6,7 +6,7 @@ var readlineSync = require('readline-sync');
 var os = require('os');
 let desktopPath = path.join(os.homedir(), 'Desktop')
 
-let fileName = readlineSync.question('Please enter the file name after finishing(Archive): ');
+let fileName = readlineSync.question('Please enter the file name(Archive): ');
 if(!fileName){
   fileName = 'Archive'
 }
