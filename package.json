@@ -1,0 +1,30 @@
+{
+  "name": "clean-desktop-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "clean-desktop-console": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yoodz/clean-desktop.git"
+  },
+  "author": "zhengdayong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoodz/clean-desktop/issues"
+  },
+  "homepage": "https://github.com/yoodz/clean-desktop#readme",
+  "keywords": [
+    "node",
+    "clean",
+    "desktop"
+  ],
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
