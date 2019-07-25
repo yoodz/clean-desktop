@@ -4,8 +4,8 @@
 一个命令整理你杂乱的window桌面。根据文件后缀放在指定的文件夹
 Usage
 ```
-npm install clean-desktop -g
+npm install clean-desktop-console -g
 ```
-then open your cmd run clean-desktop
+then open your cmd run clean-desktop-console
 
-然后打开命令行输入 clean-desktop
+然后打开命令行输入 clean-desktop-console
